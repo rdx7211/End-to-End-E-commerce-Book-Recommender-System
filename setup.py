@@ -18,7 +18,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/entbappy/ML-Based-Book-Recommender-System",
-    author_email="entbappy73@gmail.com",
+    author_email="souvikchoudhury582@gmail.com",
     packages=find_packages(),
     license="MIT",
     python_requires=">=3.7",
